@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wassim</h1>
+<h3 align="center">I'm a Developer from Tunisia.</h3>
 <div align="center">
   <a href="https://github.com/WassimDallali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WassimDallali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +18,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
  <a href = "mailto:wassimdalli7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/wassim.dallali.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wassim_dallali/?hl=fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
